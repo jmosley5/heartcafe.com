@@ -1,0 +1,21 @@
+h1 {
+  font-family: 'Averia Sans Libre', cursive;
+
+}
+
+h2,
+p,
+li,
+label {
+  font-family: 'Tenali Ramakrishna', sans-serif;
+}
+
+.login
+.register {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+  display: inline;
+}
