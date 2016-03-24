@@ -1,0 +1,54 @@
+
+/*image background for pages*/
+body,
+.index_background_img,
+.login_background_img,
+.register_background_img,
+.thankYou_background_img {
+
+   background: url(../img/heart_cafe_table.jpeg) no-repeat center/cover;
+
+}
+
+html {
+  height: 100%;
+}
+
+.index_login,
+.register_form,
+.header_form {
+  margin-top: 30%;
+  display: block;
+  font-size: 1.2em;
+  text-align: center;
+  background-color: rgba(255,255,255, 0.7);
+  padding-top: 3px;
+}
+
+p{
+  font-size: 1.2em;
+}
+
+/*   Thank You Page   */
+.thank_you {
+  font-size: 2em;
+  text-align: center;
+  margin-top: 30%;
+  background-color: rgba(255,255,255, 0.7);
+}
+
+/*   Home Page   */
+.home_text {
+  text-align: center;
+  background-color: rgba(255,255,255, 0.7);
+}
+
+/*   Video Feed   */
+
+
+
+.footer {
+  text-align: center;
+  padding-top: 40px;
+
+}
